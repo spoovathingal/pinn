@@ -1,5 +1,9 @@
-**/.* /
+.venv/
+.mplconfig/
+__pycache__/
 **/__pycache__/
 *.pyc
 *.pyo
 *.pyd
+best_model.pt
+final_model.pt
